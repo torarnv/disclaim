@@ -1,5 +1,8 @@
 # disclaim
 
+[![Continuous Integration][ci-badge]][ci-link]
+[![License][license-badge]][bsd]
+
 `disclaim` is a macOS command-line tool that enables launching processes
 with their own responsibility for Transparency, Consent, and Control (TCC)
 permissions, _disclaiming_ any responsibility for the launched process from
@@ -53,4 +56,9 @@ For more information, see [The Curious Case of the Responsible Process][blog].
 This software is licensed under the [BSD two-clause "simplified" license][bsd].
 
 [blog]: https://www.qt.io/blog/the-curious-case-of-the-responsible-process "The Curious Case of the Responsible Process"
+
 [bsd]: http://opensource.org/licenses/BSD-2-Clause "BSD two-clause license"
+[license-badge]: https://img.shields.io/github/license/torarnv/disclaim?color=informational&label=License
+
+[ci-badge]: https://github.com/torarnv/disclaim/actions/workflows/ci.yml/badge.svg
+[ci-link]: https://github.com/torarnv/disclaim/actions/workflows/ci.yml
