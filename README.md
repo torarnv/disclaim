@@ -8,6 +8,12 @@ with their own responsibility for Transparency, Consent, and Control (TCC)
 permissions, _disclaiming_ any responsibility for the launched process from
 the parent process.
 
+## Installation
+
+```shell
+❯ brew install torarnv/disclaim/disclaim`
+```
+
 ## Usage
 
 ```shell
