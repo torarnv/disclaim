@@ -11,13 +11,13 @@ the parent process.
 ## Installation
 
 ```shell
-❯ brew install torarnv/disclaim/disclaim`
+brew install torarnv/disclaim/disclaim
 ```
 
 ## Usage
 
 ```shell
-❯ disclaim <executable> [arguments...]
+disclaim <executable> [arguments...]
 ```
 
 ## Background
